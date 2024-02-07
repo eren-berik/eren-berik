@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **qlub**
 
-- 🌱 I’m currently learning **backend development with GO**
+- 🌱 I’m currently learning **backend development with GO and Java**
 
 - 💬 Ask me about **GO and Java**
 
